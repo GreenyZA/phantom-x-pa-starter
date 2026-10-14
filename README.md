@@ -1,4 +1,6 @@
-# Phantom PA Starter
+# Phamtom X PA Starter
+
+Dedicated to **@PhantomXMusic69** — the NEO-Light work is built with you in mind.
 
 A **portable, self-running Personal Assistant starter kit**.
 
@@ -22,7 +24,7 @@ See [00-QUICKSTART.md](00-QUICKSTART.md).
 ## Layout
 
 ```
-phantom-pa-starter/
+phantom-x-pa-starter/
 ├── README.md
 ├── 00-QUICKSTART.md
 ├── SECRETS.md
